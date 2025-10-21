@@ -61,7 +61,7 @@ os.system("clear")
 
 print("report automation is startig.....")
 
-url = 'https://www.facebook.com/share/1FptNh9esn/.
+url = 'https://www.facebook.com/profile.php?id=61577417285926
 
 data = {
 'crt-url' : fb,
